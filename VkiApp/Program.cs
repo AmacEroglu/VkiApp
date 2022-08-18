@@ -100,7 +100,7 @@ public class Program
             patient.WriteScreen();
             ChangeColour();
         }
-        Again();
+        ReturnToMenu();
     }
 
     static void NewVKI()
